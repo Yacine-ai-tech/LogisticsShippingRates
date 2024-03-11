@@ -1,16 +1,14 @@
 # LogisticsShippingRates
-Question 7
-Which of the following commands helps you to view the commit history?
-
-1 point
-
-git log
-
-
-git commit
-
-
-git checkout
-
-
-git history
+Please consider the below factors while contributing
+Code Style:
+Maintain a consistent code style for readability.
+Documentation:
+Ensure well-documented code for effective collaboration.
+Testing:
+Thoroughly test your changes before submitting a pull request.
+Issue Tracker:
+Check the Issue Tracker for tasks.
+Code Review:
+All contributions undergo a code review process.
+Licensing:
+Contributions are licensed.
